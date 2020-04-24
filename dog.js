@@ -1,3 +1,7 @@
 function Dog () {
-	// body... 
+	this.stomach = [];
 }
+
+
+
+module.exports = Dog;
